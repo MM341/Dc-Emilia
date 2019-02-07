@@ -27,4 +27,4 @@ client.on('message', msg => {
 }
 });
 
-client.login('nedese');
+client.login(process.env.BOT_TOKEN);
