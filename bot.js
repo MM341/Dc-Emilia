@@ -27,4 +27,4 @@ client.on('message', msg => {
 }
 });
 
-client.login('NTQxMjYyNDM2MzAxNTM3Mjgx.Dz3_MQ.ZE72CnBywyASf5fZLbNfj_8NZ7Y');
+client.login('nedese');
